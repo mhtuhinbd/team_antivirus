@@ -1,0 +1,36 @@
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.Cache
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.UI.frm_DeaCust.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\foyez\Desktop\Project\AnyStore\AnyStore\obj\Debug\AnyStore.csprojResolveAssemblyReference.cache
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\bin\Debug\AnyStore.exe.config
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.exe
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.pdb
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\bin\Debug\AnyStore.exe
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\bin\Debug\AnyStore.pdb
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.csprojResolveAssemblyReference.cache
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.UI.frm_DeaCust.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.frmAdminDashboard.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.UI.frmCategories.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.UI.frmInventory.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.UI.frmLogin.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.UI.frmProducts.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.UI.frmTransactions.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.frmUserDashboard.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.Properties.Resources.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.UI.frmUsers.resources
+C:\Users\foyez\Desktop\Project\POS Software\AnyStore\obj\Debug\AnyStore.csproj.GenerateResource.Cache
